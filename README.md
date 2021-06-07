@@ -1,4 +1,6 @@
-# Free_Software
+# SOFTWARE GRATUITO
+
+## Instaladores
 
 * [Ninite](https://ninite.com/) - (Instalador y actualizador de software)
 * [SUMo](http://www.kcsoftwares.com/?download) - (Escanea tu sistema y actualiza tus programas Recomendada versión portable)
@@ -6,7 +8,7 @@
 * [Homebrew](Link) -(sistema de gestión de paquetes que simplifica la instalación, actualización y eliminación de programas)(Open Source) - MAC (EXISTE OPCION A LINUX O WINDOWS)
 * [Patch My PC](https://patchmypc.com/) -(Actualizador de software a las últimas versiones de forma desatendida) - WINDOWS
 
-# Archivos
+## Archivos
 
 * [LibreOffice](http://www.libreoffice.org/download/download/) - (Ofimática) (Open Source)
 * [Apache OpenOffice](https://www.openoffice.org/es/) -(Ofimatica con pocos requisitos)(Open Source) - MULTIPLATAFORMA: LINUX, MAC, WINDOWS y BSD
@@ -29,14 +31,14 @@
 * [FreeFileSync](https://freefilesync.org/) -(Sincronizacion de archivos/ sincronizador entre PC y disco duro)(Open Source) - MULTIPLATAFORMA: LINUX, MAC y WINDOWS
 * [AbleWord ¡DESACTUALIZADO!](http://www.ableword.net/) -(Abre muchos tipos de documentos de texto y permite editar PDF) - WINDOWS
 
-# Editores de Texto
+## Editores de Texto
 
 * [Notepad++](https://notepad-plus-plus.org/) - (Editor de texto) (Open Source)
 * [Latex](https://www.latex-project.org/) -(Sistema de composición de textos, orientado especialmente a la creación de libros, documentos científicos y técnicos que contengan fórmulas matemáticas)(Open Source)
 * [Gedit](https://wiki.gnome.org/Apps/Gedit) -(Editor de texto y entorno de desarrollo GNOME)(Open Source) - MULTIPLATAFORMA: LINUX, MAC y WINDOWS
 * [Geany](https://www.geany.org/) -(Editor de texto pequeño y ligero con características básicas de entorno de desarrollo integrado)(Open Source) - MULTIPLATAFORMA: LINUX, MAC, BSD y WINDOWS
 
-# PDF
+## PDF
 
 * [PDF24](https://es.pdf24.org/) -(recortar y convertir PDFs) - WINDOWS
 *[PDFCreator](https://www.pdfforge.org/pdfcreator/download) - (Añade una impresora virtual para poder convertir la impresión en un archivo pdf) - WINDOWS
@@ -44,12 +46,12 @@
 * [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader.html) -(Lector PDF, eBook (ePub, Mobi), XPS, DjVu)(Open Source) - WINDOWS
 * [PDFSaM (Pdf Split and Merge)]https://pdfsam.org/es/ -(Unir y separar páginas de archivos PDF)
 
-# Ebook
+## Ebook
 
 * [Calibre](https://calibre-ebook.com/download) - (Administrador de ebooks)(Open Source)
 * [Sigil](https://github.com/Sigil-Ebook/Sigil...es/tag/0.9.13/) - (creación ebooks como EPUB)(Open Source) - Multiplataforma: Windows, Linux, macOS
 
-# Browsers
+## Browsers
 
 * [Firefox](https://www.mozilla.org/en-US/firefox/new/) - (Browser) (Open Source)
 * [uBlock Origin](https://addons.mozilla.org/en-US/fir...ublock-origin/) - (Bloqueador de archivos)
@@ -58,7 +60,7 @@
 * [Tor Browser](https://www.torproject.org/download/) -(ofrece anonimato en línea ocultado las direcciones IP de los usuarios)(Open Source) - MULTIPLATAFORMA: LINUX, MAC y WINDOWS, ANDROID
 * [Epic Browser](https://www.epicbrowser.com/) -(Navegador centrado en privacidad que bloquea anuncios) - MULTIPLATAFORMA:MAC y WINDOWS
 
-# Seguridad
+## Seguridad
 
 * [KeePass](https://keepass.info/) - (Administrador de contraseñas) (Open Source)
 * [Bitwarden](https://bitwarden.com/) - (Administrador de contraseñas) (Open Source)
@@ -69,7 +71,7 @@
 * [K-Lite Codec Pack](https://www.codecguide.com/download_kl.htm) -(Colección de filtros DirectShow, codificadores VFW/ACM, y herramientas para codificar y decodificar formatos de audio y vídeo)- WINDOWS
 * [Wireshark](https://www.wireshark.org/) -(Analizador de protocolos)(Open Source) - MULTIPLATAFORMA: LINUX, MAC, WINDOWS y BSD
 
-# Multimedia
+## Multimedia
 
 * [OBS Studio](https://obsproject.com/) - (Grabar y Streaming de video) (Open Source)
 * [VLC](https://www.videolan.org/vlc/index.html) - (Reproductor de multimedia) (Open Source)
@@ -89,7 +91,7 @@
 * [FFmpeg](https://ffmpeg.org/) -(Puede grabar, convertir y hacer streaming de audio y vídeo)(Open Source) - MULTIPLATAFORMA: LINUX, MAC y WINDOWS
 * [FLAC](https://xiph.org/flac/) -(Compresion de audio sin perdidas de calidad)(Open Source) - MULTIPLATAFORMA: LINUX, MAC, BSD y WINDOWS
 
-#Edición y Creación de Imagen
+## Edición y Creación de Imagen
 
 * [Irfanview](https://www.irfanview.com/) -(Visor de imágenes) - WINDOWS
 * [XnView MP](https://www.xnview.com/en/) -(Visor de imagenes) - MULTIPLATAFORMA: LINUX, MAC y WINDOWS
@@ -108,11 +110,11 @@
 * [Draw.io](https://www.draw.io/) -(Creación de gráficos con vectores)(Open Source) - MULTIPLATAFORMA: LINUX, MAC y WINDOWS
 * [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Download) -(Elaboración de mapas mentales o de conceptos)(Open Source) - MULTIPLATAFORMA: LINUX, MAC y WINDOWS
 
-# Modelado 3D
+## Modelado 3D
 
 * [Blender](https://www.blender.org/) - (Modelado 3D, Editor de video, Render...) (Open Source)
 
-#Edición y grabacion de video/audio
+## Edición y grabacion de video/audio
 
 * [shotcut](https://shotcut.org/download/) -(Editor/creador de video)(Open Source)
 * [virtualdub](http://www.virtualdub.org) -(Grabar y Procesar video)(Open Source) - MULTIPLATAFORMA: LINUX, MAC y WINDOWS
@@ -123,7 +125,7 @@
 * [Avidemux](https://sourceforge.net/projects/avi...videmux/2.7.2/) -(Editor de video simple)(Open Source) - MULTIPLATAFORMA: LINUX, MAC, BSD y WINDOWS
 * [Audacity](https://www.audacityteam.org/) - (Software de Audio para grabación y edición) (Open Source)
 
-# Entornos de desarrollo / Editores de codigo
+## Entornos de desarrollo / Editores de codigo
 
 * [Eclipse](https://www.eclipse.org/) - (Entorno de desarrollo integrado usado principalmente para el desarrollo de aplicaciones java aunque puede usarse con otros lenguajes por medio de plugins)
 * [Android Studio](https://developer.android.com/studio/index.html) - (Entorno de desarrollo integrado para Android (Basado en IntelliJ IDEA)
@@ -141,33 +143,33 @@
 * [Atom](https://atom.io/) -(Editor de codigo)(Open Source) - MULTIPLATAFORMA: LINUX, MAC y WINDOWS
 * [Anaconda](https://www.anaconda.com/) -(Distribuición de R y Python utilizada en ciencia de datos, y aprendizaje automático)(Open Source) - MULTIPLATAFORMA: LINUX, MAC y WINDOWS
 
-# Diseño web
+## Diseño web
 
 * [WordPress](https://wordpress.org/) - (Desarrollo web asistido)(Open Source) - MULTIPLATAFORMA: LINUX, MAC y WINDOWS
 * [Bootstrap](https://getbootstrap.com/docs/4.3/ge...rted/download/) -(Diseño web)(Open Source)
 * [Brackets](http://brackets.io/) -(IDE o editor de código Open Source, para desarrollo web, muy simple pero se le pueden agregar muchos Plugins para añadir funcionalidad (multiplataforma))(Open Source) - MULTIPLATAFORMA: LINUX, MAC y WINDOWS
 * [WampServer](http://www.wampserver.com/en/) -(Entorno de desarrollo web)(Open Source) - WINDOS
 
-# Bases de datos
+## Bases de datos
 
 * [MySQL Workbench](https://www.mysql.com/products/workbench/) -(Herramienta visual de diseño de bases de datos MySQL)(Open Source) - MULTIPLATAFORMA: LINUX, MAC y WINDOWS
 * [SequelPro](https://www.sequelpro.com/) -(Desarrollo bases de datos MySQL)(Open Source) - MACOS
 * [HeidiSQL](https://www.heidisql.com/) -(Gestión base de datos)(Open Source) - Windows
 
-# Clientes SSH, FTP, TELNET, etc...
+## Clientes SSH, FTP, TELNET, etc...
 
 * [PuTTY](https://www.putty.org/) -(cliente SSH y Telnet con el que podemos conectarnos a servidores remotos iniciando una sesión en ellos que nos permite ejecutar comandos)(Open Source) - MULTIPLATAFORMA: LINUX, MAC y WINDOWS
 * [Filezilla](https://filezilla-project.org/) -(cliente FTP)(Open Source) - MULTIPLATAFORMA: LINUX, MAC y WINDOWS
 * [WinSCP](https://winscp.net/eng/download.php) -( cliente SFTP gráfico)(Open Source) - WINDOWS
 
-# Desarrollo de videojuegos
+## Desarrollo de videojuegos
 
 * [Godot](https://godotengine.org/) - (Juegos 2D y 3D) (Open Source)
 * [Unity3D](https://unity3d.com/es) - (Juegos 2D y3D)
 * [Armory 3D](https://armory3d.org/) -(Desarrollo de juegos 3D directamente desde Blender)(Open Source)
 * [Unreal Engine](https://www.unrealengine.com/en-US/ -(Desarrollo de videojuegos)(Open Source) - MULTIPLATAFORMA: LINUX, MAC y WINDOWS
 
-# Comunicaciones
+## Comunicaciones
 
 * [Discord](https://discordapp.com/download) - (Chat de voz y texto)
 * [TeamSpeak 3](https://www.teamspeak.com/en/teamspeak3) - (Chat de voz y texto (por servidores))
@@ -175,8 +177,9 @@
 * [Telegram Desktop](https://desktop.telegram.org/) -(Chat igual que Whatsapp, seguir canales, almacenamiento de datos, etc)(Open Source) - MULTIPLATAFORMA: LINUX, MAC y WINDOWS
 * [Signal](https://signal.org/es/) -(Servicio de mensajeria cifrada)(Open Source) - MULTIPLATAFORMA: LINUX, MAC, WINDOWS y ANDROID/IOS
 *[Spike](www.spikenow.com) -(Aplicación de correo) - MULTIPLATAFORMA:WINDOWS, MAC, BROWSER, ANDROID Y IOS
-*Wire](https://wire.com/en/) -(Servicio de mensajería estilo Skype pero con mensajes cifrados end-to-end) - MULTIPLATAFORMA:WINDOWS, MAC, BROWSER, ANDROID Y IOS
-#Drivers / Relacionados
+*[Wire](https://wire.com/en/) -(Servicio de mensajería estilo Skype pero con mensajes cifrados end-to-end) - MULTIPLATAFORMA:WINDOWS, MAC, BROWSER, ANDROID Y IOS
+
+## Drivers / Relacionados
 
 * [GeForce Experience](https://www.nvidia.com/en-us/geforce...ce-experience/) - (Drivers de Nvidia)
 * [Radeon Software](https://support.amd.com/en-us/download) - (Drivers de AMD)
@@ -184,7 +187,7 @@
 * [Driverscloud] (https://www.driverscloud.com/es/iniciar) - (Busca los drivers que te faltan y te da las descargas)
 * [Snappy Driver Installer](https://sdi-tool.org/download/) -(Busca e instala los drivers que te falten)(Open Source)
 
-# Overclock e información del sistema
+## Overclock e información del sistema
 
 * [MSI Afterburner](https://msi.com/page/afterburner) - (Overclock de grafica y visión general)
 * [Speccy](https://www.piriform.com/speccy/download) - (Información de sistema incluyendo temperaturas a tiempo real e información del software)
@@ -201,17 +204,17 @@
 * [Programa](https://www.aida64.com/downloads) -(Informacion de sistema y diagnostico) - WINDOWS ANDROID/IOS
 * [PassMark BurnInTest](https://www.passmark.com/products/bit.htm) -(Diagnostico general) - WINDOWS
 
-# Rendimiento del sistema
+## Rendimiento del sistema
 
 * [PC Decrapifier](https://www.pcdecrapifier.com/download) - (Dice que programas son innecesarios y que elementos de inicio puedes deshabilitar para acelerar el PC)
 * [BleachBit](https://www.bleachbit.org) -(Limpiador de espacio en disco, un administrador de privacidad y un optimizador de sistemas)(Open Source) - MULTIPLATAFORMA: LINUX, MAC y WINDOWS
 * [Adwcleaner](https://es.malwarebytes.com/adwcleaner/) -(Detecta y elimina programas no deseados y junkware / Sin instalación) - WINDOWS
 
-# Gaming
+## Gaming
 
 * [Playnite](http://playnite.link/) - (Administrador de bibliotecas videojuegos) (Open Source)
 
-# Emuladores
+## Emuladores
 
 * [VirtualBox](https://www.virtualbox.org/) -(software de virtualización para arquitecturas x86/amd64)(Open Source) - MULTIPLATAFORMA: LINUX, MAC, WINDOWS, BSD y SOLARIS
 * [VMware Workstation Player](https://www.vmware.com/es/products/workstation-pro.html) -(Máquinas virtuales) - MULTIPLATAFORMA: LINUX y WINDOWS
@@ -229,7 +232,7 @@
 * [Space Engine](http://spaceengine.org/) -(Simulador espacial) - WINDOWS
 * [Virtual Pinball](www.vpforums.org) - (Emulador de maquinas pinball) - WINDOWS
 
-# Descargas
+## Descargas
 
 * [qBittorrent](https://www.qbittorrent.org/) - (qBittorrent es un cliente P2P multiplataforma de Bittorrent)
 * [Deluge](https://deluge-torrent.org/) -(p2p-bitorrent)
@@ -239,7 +242,7 @@
 * [Soulseek](https://www.slsknet.org/news/) -(Descarga de música) - MULTIPLATAFORMA: LINUX, MAC y WINDOWS
 * [eMule](https://www.emule-project.net/home/p...neral.cgi?l=17) -(Intercambio de archivos con sistema P2P )(Open Source) - WINDOWS
 
-# Programas técnicos
+## Programas técnicos
 
 * [FreeCAD](https://www.freecadweb.org) - (Modelador paramétrico 3D/CAD)(Open Source) - MULTIPLATAFORMA: LINUX, MAC y WINDOWS
 * [Logisim¡DESACTUALIZADO!](http://www.cburch.com/logisim/) -(diseñar y simular circuitos lógicos digitales)(Open Source) - MULTIPLATAFORMA: LINUX, MAC y WINDOWS
@@ -248,13 +251,13 @@
 * [GNU Octave](https://www.gnu.org/software/octave/) -(Programa y lenguaje de programación para realizar cálculos numéricos)(Open Source) - MULTIPLATAFORMA: LINUX, MAC y WINDOWS
 [KiCad](http://www.kicad-pcb.org/) -(diseño de PCB)(Open Source ) - Windows, Linux, Mac
 
-# Apariencia
+## Apariencia
 
 * [Classic Shell[B]¡DESACTUALIZADO!](https://sourceforge.net/projects/classicshell/) -(Permite mejorar el shell del explorador de archivos de windows) - (Open Source) - WINDOWS
 * [Open Shell](https://github.com/Open-Shell/Open-Shell-Menu) -(Continucion de Classic Shell/ Permite mejorar el shell del explorador de archivos de windows)(Open Source) - WINDOWS
 * [Rainmeter](https://www.rainmeter.net) -(Modifica el aspecto del escritorio y las ventanas)(Open Source) - WINDOWS
 
-# Otras utilidades
+## Otras utilidades
 
 * [Rufus](http://rufus.akeo.ie/?locale=en_US) - (Creador de USB booteable) (Open Source)
 * [balenaEtcher](https://www.balena.io/etcher/) -(Aplicaciones para grabar una imagen a USB o SD)(Open Source) - MULTIPLATAFORMA: LINUX, MAC y WINDOWS
